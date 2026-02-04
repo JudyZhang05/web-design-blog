@@ -12,4 +12,4 @@ if you hate markdown, you can just write plain text and that is totally fine thi
 
 simply press enter and wow new paragraph
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaW1zNzBrdm9id3R5azFsbXptNWNudmI3eWNxMThuNHl0MHdpcWk2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lOa0tPKiMLdqVdFiS8/200w.gif" alt="dancing pikachu from the movie Detective Pikachu">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaW1zNzBrdm9id3R5azFsbXptNWNudmI3eWNxMThuNHl0MHdpcWk2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lOa0tPKiMLdqVdFiS8/200w.gif" alt="dancing pikachu from the movie Detective Pikachu"> 
