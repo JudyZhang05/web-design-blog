@@ -7,6 +7,10 @@
 		<meta name="description" content="{{ description or metadata.description }}">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru&family=LXGW+WenKai+Mono+TC&display=swap" rel="stylesheet">
+
 		{#- Add the contents of a file to the bundle #}
 		<style>{% include "css/index.css" %}</style>
 
@@ -17,35 +21,37 @@
 		<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
 	</head>
 	<body>
-		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+		<div class="wrapper">
+			<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
-		<header>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
+			<header>
+				<a href="/" class="home-link">{{ metadata.title }}</a>
 
-			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
-				</ul>
-			</nav>
-		</header>
+				{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+				<nav>
+					<h2 class="visually-hidden">Top level navigation menu</h2>
+					<ul class="nav">
+					{%- for entry in collections.all | eleventyNavigation %}
+						<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+					{%- endfor %}
+					</ul>
+				</nav>
+			</header>
 
-		<main id="main">
+			<main id="main">
 			<heading-anchors>
 				{{ content | safe }}
 			</heading-anchors>
-		</main>
+			</main>
 
-		<footer>
-			<p>
-				<em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em>
-			</p>
-		</footer>
+			<footer>
+				<p>
+					<em>Built with hope and <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em>
+				</p>
+			</footer>
 
-		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
-		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+			<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
+			<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+		</div>
 	</body>
 </html>

@@ -1,8 +1,16 @@
+<div class="main-div">
+<div class="add-music">
+	<p>Play some background music:</p>
+	<audio controls>
+		<source src="https://dl.dropboxusercontent.com/s/eyb9txkepv0azqx/Beethoven%20-%20Variations%20on%20Ein%20Mädchen%20oder%20Weibchen.mp3?dl=0" type="audio/mpeg" id="bg-music">
+	</audio>
+</div>
 <ol reversed class="postlist" style="--postlist-index: {{ (postslistCounter or postslist.length) + 1 }}">
-{%- for post in postslist | reverse %}
+	{%- for post in postslist | reverse %}
 	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
 		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
 	</li>
-{%- endfor %}
+	{%- endfor %}
 </ol>
+</div>

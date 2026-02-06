@@ -3,17 +3,35 @@ layout: layouts/base.njk
 ---
 {# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
 <style>{% include "css/style.css" %}</style>
-<h1>{{ title }}</h1>
 
-<ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
-</ul>
+<div class="post-container">
+	<div class="post-header">
+		<div class="post-details">
+			<h1>{{ title }}</h1>
 
-{{ content | safe }}
+			<ul class="post-metadata">
+				<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+				{%- for tag in tags | filterTagList %}
+				{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+				<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+				{%- endfor %}
+			</ul>
+		</div>
+		
+		<div class="post-details">
+			<small>Play some background music:</small>
+			<audio controls>
+				<source src="https://dl.dropboxusercontent.com/s/eyb9txkepv0azqx/Beethoven%20-%20Variations%20on%20Ein%20Mädchen%20oder%20Weibchen.mp3?dl=0" type="audio/mpeg" id="bg-music">
+			</audio>
+		</div>
+		
+	</div>
+
+	<div class="content-container">
+		{{ content | safe }}
+	</div>
+
+</div>
 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
