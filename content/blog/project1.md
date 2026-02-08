@@ -11,6 +11,8 @@ This way everything is organized from the very get go. I usually favor Figma ove
 to follow the suggested design process order provided in the class notes. 
 I began with a moodboard mostly from pinterest and mobbin, keeping track of the keywords I searched with. After some time of looking around I found it difficult to grasp any solid idea from just looking at random apps and images online, so I switched gears and focused on brainstorming as many concept topics as possible. After that I jumped around from gathering inspiration pics and brainstorming new ideas. Until I landed on two solid ones I wanted to explore. 
 
+Additionally, here is a link to my Figma, where you can see my brainstorming and design process in depth: [Project 1 Figma](https://www.figma.com/design/KfMqug1fz7ez696eTkmd3F/MEDP345?node-id=0-1&p=f&t=iOYXZ8wDnd5DKbKM-0)
+
 ## Thinking Process
 
 I sort of combined the two topics that sparked my interest, making a list of what elements I would add to convey the theme a little more. For this project I chose a balance between themes of cozy/study vibes and a traditional cultural festival: lunar new year. When I had written everything that came to mind out I swiftly moved onto information architecture and wireframing. 
