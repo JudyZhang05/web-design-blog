@@ -1,0 +1,17 @@
+---
+title: Reading Response 1
+description: This is reading response to Infrastructure
+date: Created
+---
+
+# Thoughts and Reflection
+
+[The Undersea Network Starosielski](https://web.archive.org/web/20240211123315/https://blogs.commons.georgetown.edu/engl-711-fall2017/files/2017/08/The-Undersea-Network_Starosielski.pdf)
+
+The Undersea Network is a fascinating read on all accounts. I was however, informed of the existence of undersea cables before this read but it has most definitely opened my eyes to the significance of these undersea infrastructure. From end to end users to major companies to even the government and military, everyone and I mean everyone heavily relies and depend on these submerged optic-fiber cables that connects everyone around the world. It was interesting to me initially when the author had stated that the book was to reintroduce the environmental consciousness given that it's talking about human-made mechanisms that we had no better place to put it than trying to sweep it under the earth's metaphorical rug known as the ocean and just adds to the ever growing list of anthropogenic problems. However, upon further read I was hooked, it's truly amazing the depths that media-literacy and marketing does to the world. The way that the overhanging fear of capitalism moves the world to using a "security by obscurity" method and making the concepts of wires or cables being part of the "old media" or that "satellites are sexier than cables" to help "narrate the transendance of wires to wireless structures" and ensure that no one tries to capitalize on the cable's connective abilities. ONLY TO DOUBLE BACK and stab ourselves in the foot for adding more wires and cables under the guise of "progressing" towards a more wireless world AND (bear with me) the act of obscuring and making the undersea cables invisible is posing a threat to implementing more legistation on infrastructure funding to maintaining and improving these cannot emphasize enough crucially essential optic-fiber cables. Wild stuff if I do say so myself, but fascinating nonetheless.
+
+<hr/>
+
+[How to See Invisible Infrastructure](https://www.theatlantic.com/technology/archive/2015/08/how-to-see-invisible-infrastructure/401204/)
+
+After reading the Undersea Network, I found that it gave a good background context to moving on with this Atlantic article. In the earlier reading it addressed the need of cables being more publizied and known, then in this article the author and his friend discussed the difficulty for any public discourse about it and the lack of interest by the public despite it's signficance it plays in everyone's daily life. Additionally, I found it ironic that one of the videos that was provided as an example to show what locators do is no longer available. Perhaps it is the way the author writes in such a informative but upbeat tone, but it's kind of nice to know that despite the misinformation and burial of public knowledge on cables that work underground, there are people or locators that genuinely find their work meaningful and enjoy the burdening task of making the invisible visible and correctly classifying the inner workings and utilities of the unseen risks with little to no help. 

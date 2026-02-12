@@ -1,6 +1,6 @@
 ---
 title: project1
-description: this is temp for project 1
+description: This is project 1
 date: Created
 ---
 
