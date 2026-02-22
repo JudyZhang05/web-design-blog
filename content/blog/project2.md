@@ -18,4 +18,4 @@ For this project, I will be handling the asset illustrations. Designing our taro
 
 Kylah Blog Post
 
-Shasuna Blog Post
+[Shasuna Blog Post](https://shasunal.github.io/shasunagarden/blog/project2/)
