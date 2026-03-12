@@ -19,7 +19,7 @@
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #ffce85;
-	--text-color-link-active: #BC8034;
+	--text-color-link-active: #f8a942;
 	--text-color-link-visited: #f7c170;
 	--background-color: #5E0B15;
 
@@ -46,7 +46,7 @@
 		/* --background-color: #15202b; */
 
 		--text-color-link: #ffdca8;
-		--text-color-link-active: #BC8034;
+		--text-color-link-active: #f8a942;
 		--text-color-link-visited: #f7c170;
 		--background-color: #5E0B15;
 
