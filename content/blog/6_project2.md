@@ -1,5 +1,5 @@
 ---
-title: project2
+title: Midterm Project - Yodini
 description: This is project 2
 date: Created
 ---
@@ -13,6 +13,7 @@ We each started out this project by exploring the available API list while keepi
 For this project, I will be handling the asset illustrations. Designing our tarot reader Baby Yoda while trying to convey this sort of dark mysterious aura that is typical for any tarot/palm readings. I will be paying a lot of attention to the visual graphics, using Adobe Illustrator and exporting them as Scalable Vector Graphics so the details are retained throughout the web. I will also be ensuring that the CSS motion animation works well with the rest of the page. After doing so, I will attend to some JavaScript manipualtions to ensure the right data is getting displayed in a manner that fits the mysterious yet funny Baby Yoda Tarot Reading vibe.
 
 ## External Links
+
 
 [Project 2 Figma Documentation](https://www.figma.com/design/KfMqug1fz7ez696eTkmd3F/MEDP345?node-id=57-2&p=f&t=qpPDtyK77AJEzm70-0)
 
