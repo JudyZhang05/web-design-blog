@@ -21,6 +21,6 @@ For this project, I created the majority of the featured illustrations of the pr
 
 [Project 2 Figma Documentation](https://www.figma.com/design/KfMqug1fz7ez696eTkmd3F/MEDP345?node-id=57-2&p=f&t=qpPDtyK77AJEzm70-0)
 
-[Kylah Blog Post]()
+[Kylah Blog Post](https://reahky23.github.io/reahky23-web-projects-blog/blog/p2doc/)
 
-[Shasuna Blog Post]()
+[Shasuna Blog Post](https://shasunal.github.io/shasunagarden/blog/project2documentation/)
