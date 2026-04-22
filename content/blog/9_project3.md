@@ -13,8 +13,8 @@ My role for the speculative communication network project called Nova, is a comb
 
 [Project 3 Figma Documentation](https://www.figma.com/design/KfMqug1fz7ez696eTkmd3F/MEDP345?node-id=238-2&p=f&t=243kFxjZOSJiAJ6k-0)
 
-Kris Blog Post
+[Kris Blog Post](https://krisswan253.github.io/web-design-blog/blog/Project3-concept/)
 
-Jorge Blog Post
+[Jorge Blog Post](https://jorgevin74.github.io/web-design-blog/blog/project-3-concept/)
 
-TJ Blog Post
+[TJ Blog Post](https://itznotisrael.github.io/web-design-blog-starter/blog/project3/)
