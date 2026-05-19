@@ -1,5 +1,5 @@
 ---
-title: Midterm Project - Nova
+title: Final Project - Nova
 description: This is project4 
 date: Created
 ---
