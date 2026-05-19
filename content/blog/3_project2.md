@@ -1,5 +1,5 @@
 ---
-title: Midterm Project - Yodini
+title: Midterm Project Concept - Yodini
 description: This is project 2
 date: Created
 ---

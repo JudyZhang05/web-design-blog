@@ -1,7 +1,7 @@
 ---
 title: Final Project 3 Nova
 description: This the final project description
-date: 2026-05-19
+date: Created
 ---
 
 # My Contribution
